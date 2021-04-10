@@ -59,7 +59,7 @@ ul li a:hover {
 
 .toggle-button .bar {
     height: 3px;
-    width: 100px;
+    width: 30px;
     background-color: white;
     border-radius: 10px;
 }
